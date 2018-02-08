@@ -1,1 +1,1 @@
-MTGDamageCounter
+A React Native Port of the Commander Damage Tracker Android App

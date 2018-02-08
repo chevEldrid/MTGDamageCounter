@@ -1,0 +1,6 @@
+node_modules
+.expo
+.babelrc
+.flowconfig
+.watchmanconfig
+HELP.md
