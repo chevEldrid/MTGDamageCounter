@@ -3,4 +3,5 @@ node_modules
 .babelrc
 .flowconfig
 .watchmanconfig
+package-lock.json
 HELP.md
